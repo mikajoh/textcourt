@@ -3,4 +3,4 @@ Code as part of the "Judicial Politics in Scandinavia" project. Extracts structu
 
 Mikael Poul Johannesson (mikajoh@gmail.com).
 
-Code developed in collaboration with Jon Kåre (josk@norceresearch.no)
+Code developed in collaboration with Jon Kåre Skiple (josk@norceresearch.no)
